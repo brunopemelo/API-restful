@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Bruno Pereira de Melo <brunopemelo@hotmail.com>",
+  "license": "ISC",
+  "repository": "git+https://github.com/brunopemelo/API-restful.git",
+  "bugs": {
+    "url": "https://github.com/brunopemelo/API-restful/issues"
+  },
+  "homepage": "https://github.com/brunopemelo/API-restful#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.5"
+  }
 }
